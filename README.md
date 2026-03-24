@@ -8,7 +8,7 @@ The original workflow relied heavily on emails, manual updates, and disconnected
 
 The solution centralizes the entire process into a single structured system, improving visibility, control, and enabling data analysis.
 
-Problem
+# Problem
 
 The process had several operational issues:
 
